@@ -1,7 +1,7 @@
 {
   "name": "subash-mari-portfolio",
   "version": "1.0.0",
-  "homepage": "https://subashmari.github.io",
+  "homepage": "https://subashmari.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
